@@ -1,0 +1,41 @@
+/*
+.intro {
+	width:100%;
+	position: relative;
+	background: url(../img/intro.jpg) no-repeat top center;
+
+}
+*/
+
+#about{
+	  width: 100%;
+  color: white;
+  background-color: #ffea30;
+  color: black;
+
+}
+
+#otherproj{
+	background-color: #68cda1;
+}
+
+footer{
+	background-color: #f4ad07;
+
+	text-align: left;
+	color: black;
+}
+
+.widget-contact{
+	font-size: 23px;
+}
+#contact{
+	 width: 100%;
+	background-color: black;
+}
+
+#eMal{
+	color:#68cda1;
+}
+
+
